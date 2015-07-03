@@ -11,7 +11,7 @@ The simplest case: focusing the input (clicking or tabbing into it) will show th
 
 .. code-block:: html
 
-    <input type="text" value="02-16-2012">
+    <input type="text" value="03-16-2012">
 
 .. figure:: _static/screenshots/markup_input.png
     :align: center
